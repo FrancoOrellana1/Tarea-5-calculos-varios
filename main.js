@@ -20,9 +20,7 @@ $agregarElemento.onclick= function(){
     return false
 }
 
-function sumar(a, b){
-    return a + b;
-}
+
 
 const $calcular = document.querySelector('#calcular');
 
